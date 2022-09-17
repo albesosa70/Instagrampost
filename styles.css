@@ -1,0 +1,45 @@
+body {
+   
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+     }
+
+.post{
+  background-color: white;
+  justify-content: center;
+  width: 574px;
+}
+
+.header-img{
+    display: flex;
+    justify-content: left;
+    background-color: white;
+    padding-inline: 40px;
+  
+}
+.fa-brands{
+  font-size: 50px;
+  
+}
+p {
+    font-weight:bold;
+   
+   
+  }
+
+.normal{
+  font-weight:normal;
+ 
+}
+.bold{
+  font-weight:bold;
+  margin-top: 0%;
+}
+.simbolos{
+  display: flex;
+  font-size: 50px;
+   
+}
